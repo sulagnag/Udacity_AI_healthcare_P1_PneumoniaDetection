@@ -42,4 +42,4 @@ g. sklearn
 ## Execution
 This project would require GPUs to train the deep learning model.
 
-Note: I have not uploaded the hd5 file, the weights of the trained model since its a big file.
+Note: I have not uploaded the hdf5 file, the weights of the trained model since its a big file.
