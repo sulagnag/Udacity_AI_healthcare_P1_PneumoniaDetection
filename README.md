@@ -30,5 +30,16 @@ The original radiology reports are not publicly available but you can find more 
 Meta data for all images (Data_Entry_2017.csv): Image Index, Finding Labels, Follow-up #, Patient ID, Patient Age, Patient Gender, View Position, Original Image Size and Original Image Pixel Spacing.
 
 ## Getting Started - installations
+Python packages
+a. python 3.6
+b. numpy
+c. tensorflow
+d. keras
+e. pandas
+f. matplotlib
+g. sklearn
 
 ## Execution
+This project would require GPUs to train the deep learning model.
+
+
