@@ -31,13 +31,13 @@ Meta data for all images (Data_Entry_2017.csv): Image Index, Finding Labels, Fol
 
 ## Getting Started - installations
 Python packages
-a. python 3.6
-b. numpy
-c. tensorflow
-d. keras
-e. pandas
-f. matplotlib
-g. sklearn
+- python 3.6
+- numpy
+- tensorflow
+- keras
+- pandas
+- matplotlib
+- sklearn
 
 ## Execution
 This project would require GPUs to train the deep learning model.
